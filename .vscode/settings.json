@@ -1,0 +1,9 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "cmake.configureOnOpen": false,
+    "editor.wordWrap": "on",
+    "files.associations": {
+        "type_traits": "cpp",
+        "iostream": "cpp"
+    }
+}
